@@ -1,7 +1,7 @@
 
 import tkinter as tk
 from controller.validator_Controller import ValidadorController
-from utils.logger import get_logger
+from logger import get_logger
 
 
 def main(): 
